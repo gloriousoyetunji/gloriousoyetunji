@@ -1,4 +1,5 @@
 ### Hi there I'm Glorious-Goodness Oyetunji 👋
+:)
 
 <!--
 **gloriousoyetunji/gloriousoyetunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
