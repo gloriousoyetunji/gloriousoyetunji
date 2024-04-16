@@ -2,7 +2,7 @@
 :)
 I'm a current computer science major
 Involvement: 
-#ACM-W: https://rucsm.org/cs/acmw/index.html
+# ACM-W: https://rucsm.org/cs/acmw/index.html
 <!--
 **gloriousoysetunji/gloriousoyetunji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
