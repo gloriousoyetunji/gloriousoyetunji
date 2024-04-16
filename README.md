@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ###I'm a current computer science major
-Involvement: <a href: "https://rucsm.org/cs/acmw/index.html"></a>
+Involvement: 
+ACM-W: https://rucsm.org/cs/acmw/index.html
