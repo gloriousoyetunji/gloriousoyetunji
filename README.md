@@ -6,7 +6,7 @@ I'm a current computer science major
 [ACM-W](https://rucsm.org/cs/acmw/index.html)
 
 ## I'm currently working on
-[The Odin Project - A Free Web Develoment Course](https://www.theodinproject.com/)
+
 
 ## Connect with me below
 [LinkedIn](https://www.linkedin.com/in/glorious-goodness-oyetunji/)
